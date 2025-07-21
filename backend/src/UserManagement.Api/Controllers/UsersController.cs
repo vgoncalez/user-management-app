@@ -27,6 +27,7 @@ public class UsersController : ControllerBase
     }
 
     [HttpPost]
+    [AllowAnonymous]
     public async Task<ActionResult> InsertAsync([FromBody] CreateUserCommand command)
     {
         if (command is null)

@@ -88,6 +88,23 @@ builder.Services
 
 var app = builder.Build();
 
+using (var scope = app.Services.CreateScope())
+{
+    var db = scope.ServiceProvider.GetRequiredService<ApplicationDbContext>();
+    var passwordHasher = scope.ServiceProvider.GetRequiredService<IPasswordHasher>();
+
+    db.Database.Migrate();
+
+    if (!db.Users.Any(u => u.Email == "admin@admin.com"))
+    {
+        var adminUser = new User("Admin", "admin@admin.com");
+        adminUser.SetPasswordHash(passwordHasher.HashPassword("AdminSenha@123"));
+
+        db.Users.Add(adminUser);
+        db.SaveChanges();
+    }
+}
+
 app.UseCors("CORS");
 
 if (app.Environment.IsDevelopment())
