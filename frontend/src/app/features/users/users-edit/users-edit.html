@@ -1,0 +1,51 @@
+<div class="container mt-5">
+  <div class="row justify-content-center">
+    <div class="col-md-6">
+      <div class="card shadow-sm rounded-4">
+        <div class="card-body p-4">
+          <h2 class="mb-4 text-center">Cadastro de Usuário</h2>
+          <form [formGroup]="userForm" (ngSubmit)="onSubmit()">
+            <div class="mb-3">
+              <label for="name" class="form-label">Nome</label>
+              <input id="name" type="text" class="form-control" formControlName="name"
+                [ngClass]="{ 'is-invalid': submitted && userForm.get('name')?.errors }" />
+              <div class="invalid-feedback" *ngIf="submitted && userForm.get('name')?.errors">
+                Nome é obrigatório.
+              </div>
+            </div>
+
+            <div class="mb-3">
+              <label for="email" class="form-label">E-mail</label>
+              <input id="email" type="email" class="form-control" formControlName="email"
+                [ngClass]="{ 'is-invalid': submitted && userForm.get('email')?.errors }" />
+              <div class="invalid-feedback" *ngIf="submitted && userForm.get('email')?.errors">
+                <div *ngIf="userForm.get('email')?.errors?.['required']">E-mail é obrigatório.</div>
+                <div *ngIf="userForm.get('email')?.errors?.['email']">E-mail inválido.</div>
+              </div>
+            </div>
+
+            <div class="mb-3">
+              <label for="password" class="form-label">Senha</label>
+              <input id="password" type="password" class="form-control" formControlName="password"
+                [ngClass]="{ 'is-invalid': submitted && userForm.get('password')?.errors }" />
+              <div class="invalid-feedback" *ngIf="submitted && userForm.get('password')?.errors">
+                <div *ngIf="userForm.get('password')?.errors?.['required']">Senha é obrigatória.</div>
+                <div *ngIf="userForm.get('password')?.errors?.['minlength']">A senha deve ter no mínimo 6 caracteres.
+                </div>
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="col">
+                <button class="btn btn-secondary w-100" routerLink="/users">Voltar</button>
+              </div>
+              <div class="col">
+                <button type="submit" class="btn btn-primary w-100">Cadastrar</button>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
