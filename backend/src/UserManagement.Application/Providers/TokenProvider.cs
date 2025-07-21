@@ -3,13 +3,15 @@ using System.Text;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.JsonWebTokens;
 using Microsoft.IdentityModel.Tokens;
+using UserManagement.Application.Interfaces;
 using UserManagement.Domain.Entities;
 
 namespace UserManagement.Application.Providers;
 
-public sealed class TokenProvider
+public sealed class TokenProvider : ITokenProvider
 {
     private readonly IConfiguration _configuration;
+
     public TokenProvider(IConfiguration configuration)
     {
         _configuration = configuration;
