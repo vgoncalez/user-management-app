@@ -36,14 +36,4 @@ export class UsersList implements OnInit {
         }
       });
   }
-
-  deleteUser(id: string): void {
-    if (!confirm('Tem certeza que deseja excluir?')) return;
-
-    this.userService
-      .deleteUser(id)
-      .subscribe(() => {
-        this.getUsers();
-      });
-  }
 }

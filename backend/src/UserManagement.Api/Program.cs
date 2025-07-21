@@ -28,13 +28,12 @@ builder.Services.AddSwagger();
 
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("CORS",
-        policy => policy
-            .WithOrigins("http://localhost:4200") // ou o domínio do seu front-end Angular
-            .AllowAnyHeader()
-            .AllowAnyMethod()
-            .AllowCredentials()
-    );
+    options.AddDefaultPolicy(policy =>
+    {
+        policy.AllowAnyOrigin()
+              .AllowAnyMethod()
+              .AllowAnyHeader();
+    });
 });
 
 builder.Services.AddScoped<ITokenProvider, TokenProvider>();
@@ -105,7 +104,7 @@ using (var scope = app.Services.CreateScope())
     }
 }
 
-app.UseCors("CORS");
+app.UseCors();
 
 if (app.Environment.IsDevelopment())
 {

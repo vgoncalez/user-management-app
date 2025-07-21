@@ -13,8 +13,6 @@ import { FormBuilder, FormGroup, ReactiveFormsModule, Validators } from '@angula
 export class UsersEdit {
   userForm: FormGroup;
   submitted = false;
-  isEdit = false;
-  userId?: string;
 
   constructor(
     private fb: FormBuilder,
@@ -33,20 +31,7 @@ export class UsersEdit {
     return this.userForm.controls;
   }
 
-  ngOnInit(): void {
-    this.userId = this.route.snapshot.paramMap.get('id')!;
-    this.isEdit = !!this.userId;
-
-    // if (this.isEdit) {
-    //   this.userService.getById(this.userId).subscribe(user => {
-    //     this.userForm.patchValue({
-    //       nome: user.nome,
-    //       email: user.email,
-    //       senha: '', // deixa vazio, só preenche se for atualizar
-    //     });
-    //   });
-    // }
-  }
+  ngOnInit(): void { }
 
   onSubmit(): void {
     this.submitted = true;
@@ -55,20 +40,11 @@ export class UsersEdit {
       return;
     }
 
-    if (this.isEdit) {
-      this.userService
-        .updateUser(this.userId!, this.userForm.value)
-        .subscribe(() => {
-          alert('Usuário atualizado com sucesso!');
-          this.router.navigate(['/users']);
-        });
-    } else {
-      this.userService
-        .createUser(this.userForm.value)
-        .subscribe(() => {
-          alert('Usuário criado com sucesso!');
-          this.router.navigate(['/users']);
-        });
-    }
+    this.userService
+      .createUser(this.userForm.value)
+      .subscribe(() => {
+        alert('Usuário criado com sucesso!');
+        this.router.navigate(['/users']);
+      });
   }
 }
