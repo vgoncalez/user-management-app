@@ -4,7 +4,6 @@ using UserManagement.Application.Features.Auth.Responses;
 using UserManagement.Application.Features.Users.Responses;
 using UserManagement.Application.Interfaces;
 using UserManagement.Application.Interfaces.Repositories;
-using UserManagement.Application.Providers;
 
 namespace UserManagement.Application.Features.Auth.Handlers;
 

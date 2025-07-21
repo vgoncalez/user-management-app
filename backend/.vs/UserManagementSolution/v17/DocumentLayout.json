@@ -3,8 +3,68 @@
   "WorkspaceRootPath": "D:\\projects\\vgoncalez\\UserManagementApp\\backend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FEA29FF4-A55E-4245-ABAB-4527C4EC384A}|src\\UserManagement.Tests\\UserManagement.Tests.csproj|d:\\projects\\vgoncalez\\usermanagementapp\\backend\\src\\usermanagement.tests\\handlers\\createuserhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEA29FF4-A55E-4245-ABAB-4527C4EC384A}|src\\UserManagement.Tests\\UserManagement.Tests.csproj|solutionrelative:src\\usermanagement.tests\\handlers\\createuserhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA29FF4-A55E-4245-ABAB-4527C4EC384A}|src\\UserManagement.Tests\\UserManagement.Tests.csproj|d:\\projects\\vgoncalez\\usermanagementapp\\backend\\src\\usermanagement.tests\\handlers\\authenticateuserhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEA29FF4-A55E-4245-ABAB-4527C4EC384A}|src\\UserManagement.Tests\\UserManagement.Tests.csproj|solutionrelative:src\\usermanagement.tests\\handlers\\authenticateuserhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8011D248-BD4F-4E0A-B612-2401C5E4A76B}|src\\UserManagement.Infrastructure\\UserManagement.Infrastructure.csproj|d:\\projects\\vgoncalez\\usermanagementapp\\backend\\src\\usermanagement.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8011D248-BD4F-4E0A-B612-2401C5E4A76B}|src\\UserManagement.Infrastructure\\UserManagement.Infrastructure.csproj|solutionrelative:src\\usermanagement.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8011D248-BD4F-4E0A-B612-2401C5E4A76B}|src\\UserManagement.Infrastructure\\UserManagement.Infrastructure.csproj|d:\\projects\\vgoncalez\\usermanagementapp\\backend\\src\\usermanagement.infrastructure\\providers\\tokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8011D248-BD4F-4E0A-B612-2401C5E4A76B}|src\\UserManagement.Infrastructure\\UserManagement.Infrastructure.csproj|solutionrelative:src\\usermanagement.infrastructure\\providers\\tokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8011D248-BD4F-4E0A-B612-2401C5E4A76B}|src\\UserManagement.Infrastructure\\UserManagement.Infrastructure.csproj|d:\\projects\\vgoncalez\\usermanagementapp\\backend\\src\\usermanagement.infrastructure\\providers\\bcryptpasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8011D248-BD4F-4E0A-B612-2401C5E4A76B}|src\\UserManagement.Infrastructure\\UserManagement.Infrastructure.csproj|solutionrelative:src\\usermanagement.infrastructure\\providers\\bcryptpasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8011D248-BD4F-4E0A-B612-2401C5E4A76B}|src\\UserManagement.Infrastructure\\UserManagement.Infrastructure.csproj|d:\\projects\\vgoncalez\\usermanagementapp\\backend\\src\\usermanagement.infrastructure\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8011D248-BD4F-4E0A-B612-2401C5E4A76B}|src\\UserManagement.Infrastructure\\UserManagement.Infrastructure.csproj|solutionrelative:src\\usermanagement.infrastructure\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8011D248-BD4F-4E0A-B612-2401C5E4A76B}|src\\UserManagement.Infrastructure\\UserManagement.Infrastructure.csproj|d:\\projects\\vgoncalez\\usermanagementapp\\backend\\src\\usermanagement.infrastructure\\migrations\\20250717223146_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8011D248-BD4F-4E0A-B612-2401C5E4A76B}|src\\UserManagement.Infrastructure\\UserManagement.Infrastructure.csproj|solutionrelative:src\\usermanagement.infrastructure\\migrations\\20250717223146_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8011D248-BD4F-4E0A-B612-2401C5E4A76B}|src\\UserManagement.Infrastructure\\UserManagement.Infrastructure.csproj|d:\\projects\\vgoncalez\\usermanagementapp\\backend\\src\\usermanagement.infrastructure\\configuration\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8011D248-BD4F-4E0A-B612-2401C5E4A76B}|src\\UserManagement.Infrastructure\\UserManagement.Infrastructure.csproj|solutionrelative:src\\usermanagement.infrastructure\\configuration\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8011D248-BD4F-4E0A-B612-2401C5E4A76B}|src\\UserManagement.Infrastructure\\UserManagement.Infrastructure.csproj|d:\\projects\\vgoncalez\\usermanagementapp\\backend\\src\\usermanagement.infrastructure\\data\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8011D248-BD4F-4E0A-B612-2401C5E4A76B}|src\\UserManagement.Infrastructure\\UserManagement.Infrastructure.csproj|solutionrelative:src\\usermanagement.infrastructure\\data\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8011D248-BD4F-4E0A-B612-2401C5E4A76B}|src\\UserManagement.Infrastructure\\UserManagement.Infrastructure.csproj|d:\\projects\\vgoncalez\\usermanagementapp\\backend\\src\\usermanagement.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8011D248-BD4F-4E0A-B612-2401C5E4A76B}|src\\UserManagement.Infrastructure\\UserManagement.Infrastructure.csproj|solutionrelative:src\\usermanagement.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0258DE-550C-452B-9226-F260F9EEAA7C}|src\\UserManagement.Domain\\UserManagement.Domain.csproj|d:\\projects\\vgoncalez\\usermanagementapp\\backend\\src\\usermanagement.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0258DE-550C-452B-9226-F260F9EEAA7C}|src\\UserManagement.Domain\\UserManagement.Domain.csproj|solutionrelative:src\\usermanagement.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE266F86-E9A1-4647-8556-FC7DA48A746A}|src\\UserManagement.Application\\UserManagement.Application.csproj|d:\\projects\\vgoncalez\\usermanagementapp\\backend\\src\\usermanagement.application\\features\\auth\\validators\\authenticateuserqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE266F86-E9A1-4647-8556-FC7DA48A746A}|src\\UserManagement.Application\\UserManagement.Application.csproj|solutionrelative:src\\usermanagement.application\\features\\auth\\validators\\authenticateuserqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE266F86-E9A1-4647-8556-FC7DA48A746A}|src\\UserManagement.Application\\UserManagement.Application.csproj|d:\\projects\\vgoncalez\\usermanagementapp\\backend\\src\\usermanagement.application\\features\\auth\\responses\\authenticateuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE266F86-E9A1-4647-8556-FC7DA48A746A}|src\\UserManagement.Application\\UserManagement.Application.csproj|solutionrelative:src\\usermanagement.application\\features\\auth\\responses\\authenticateuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE266F86-E9A1-4647-8556-FC7DA48A746A}|src\\UserManagement.Application\\UserManagement.Application.csproj|d:\\projects\\vgoncalez\\usermanagementapp\\backend\\src\\usermanagement.application\\features\\auth\\queries\\authenticateuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE266F86-E9A1-4647-8556-FC7DA48A746A}|src\\UserManagement.Application\\UserManagement.Application.csproj|solutionrelative:src\\usermanagement.application\\features\\auth\\queries\\authenticateuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE266F86-E9A1-4647-8556-FC7DA48A746A}|src\\UserManagement.Application\\UserManagement.Application.csproj|d:\\projects\\vgoncalez\\usermanagementapp\\backend\\src\\usermanagement.application\\features\\auth\\handlers\\authenticateuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE266F86-E9A1-4647-8556-FC7DA48A746A}|src\\UserManagement.Application\\UserManagement.Application.csproj|solutionrelative:src\\usermanagement.application\\features\\auth\\handlers\\authenticateuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE266F86-E9A1-4647-8556-FC7DA48A746A}|src\\UserManagement.Application\\UserManagement.Application.csproj|d:\\projects\\vgoncalez\\usermanagementapp\\backend\\src\\usermanagement.application\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE266F86-E9A1-4647-8556-FC7DA48A746A}|src\\UserManagement.Application\\UserManagement.Application.csproj|solutionrelative:src\\usermanagement.application\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE266F86-E9A1-4647-8556-FC7DA48A746A}|src\\UserManagement.Application\\UserManagement.Application.csproj|d:\\projects\\vgoncalez\\usermanagementapp\\backend\\src\\usermanagement.application\\applicationassemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,6 +87,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CreateUserHandlerTests.cs",
+              "DocumentMoniker": "D:\\projects\\vgoncalez\\UserManagementApp\\backend\\src\\UserManagement.Tests\\Handlers\\CreateUserHandlerTests.cs",
+              "RelativeDocumentMoniker": "src\\UserManagement.Tests\\Handlers\\CreateUserHandlerTests.cs",
+              "ToolTip": "D:\\projects\\vgoncalez\\UserManagementApp\\backend\\src\\UserManagement.Tests\\Handlers\\CreateUserHandlerTests.cs",
+              "RelativeToolTip": "src\\UserManagement.Tests\\Handlers\\CreateUserHandlerTests.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T20:11:19.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthenticateUserHandlerTests.cs",
+              "DocumentMoniker": "D:\\projects\\vgoncalez\\UserManagementApp\\backend\\src\\UserManagement.Tests\\Handlers\\AuthenticateUserHandlerTests.cs",
+              "RelativeDocumentMoniker": "src\\UserManagement.Tests\\Handlers\\AuthenticateUserHandlerTests.cs",
+              "ToolTip": "D:\\projects\\vgoncalez\\UserManagementApp\\backend\\src\\UserManagement.Tests\\Handlers\\AuthenticateUserHandlerTests.cs",
+              "RelativeToolTip": "src\\UserManagement.Tests\\Handlers\\AuthenticateUserHandlerTests.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T20:11:11.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\projects\\vgoncalez\\UserManagementApp\\backend\\src\\UserManagement.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "src\\UserManagement.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\projects\\vgoncalez\\UserManagementApp\\backend\\src\\UserManagement.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "src\\UserManagement.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T20:11:07.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BcryptPasswordHasher.cs",
+              "DocumentMoniker": "D:\\projects\\vgoncalez\\UserManagementApp\\backend\\src\\UserManagement.Infrastructure\\Providers\\BcryptPasswordHasher.cs",
+              "RelativeDocumentMoniker": "src\\UserManagement.Infrastructure\\Providers\\BcryptPasswordHasher.cs",
+              "ToolTip": "D:\\projects\\vgoncalez\\UserManagementApp\\backend\\src\\UserManagement.Infrastructure\\Providers\\BcryptPasswordHasher.cs",
+              "RelativeToolTip": "src\\UserManagement.Infrastructure\\Providers\\BcryptPasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T20:11:04.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\projects\\vgoncalez\\UserManagementApp\\backend\\src\\UserManagement.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "src\\UserManagement.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\projects\\vgoncalez\\UserManagementApp\\backend\\src\\UserManagement.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "src\\UserManagement.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T20:11:02.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250717223146_InitialCreate.cs",
+              "DocumentMoniker": "D:\\projects\\vgoncalez\\UserManagementApp\\backend\\src\\UserManagement.Infrastructure\\Migrations\\20250717223146_InitialCreate.cs",
+              "RelativeDocumentMoniker": "src\\UserManagement.Infrastructure\\Migrations\\20250717223146_InitialCreate.cs",
+              "ToolTip": "D:\\projects\\vgoncalez\\UserManagementApp\\backend\\src\\UserManagement.Infrastructure\\Migrations\\20250717223146_InitialCreate.cs",
+              "RelativeToolTip": "src\\UserManagement.Infrastructure\\Migrations\\20250717223146_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T20:11:01.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "TokenProvider.cs",
               "DocumentMoniker": "D:\\projects\\vgoncalez\\UserManagementApp\\backend\\src\\UserManagement.Infrastructure\\Providers\\TokenProvider.cs",
               "RelativeDocumentMoniker": "src\\UserManagement.Infrastructure\\Providers\\TokenProvider.cs",
@@ -39,7 +177,124 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
+              "Title": "DesignTimeDbContextFactory.cs",
+              "DocumentMoniker": "D:\\projects\\vgoncalez\\UserManagementApp\\backend\\src\\UserManagement.Infrastructure\\Data\\DesignTimeDbContextFactory.cs",
+              "RelativeDocumentMoniker": "src\\UserManagement.Infrastructure\\Data\\DesignTimeDbContextFactory.cs",
+              "ToolTip": "D:\\projects\\vgoncalez\\UserManagementApp\\backend\\src\\UserManagement.Infrastructure\\Data\\DesignTimeDbContextFactory.cs",
+              "RelativeToolTip": "src\\UserManagement.Infrastructure\\Data\\DesignTimeDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T20:10:56.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\projects\\vgoncalez\\UserManagementApp\\backend\\src\\UserManagement.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "src\\UserManagement.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\projects\\vgoncalez\\UserManagementApp\\backend\\src\\UserManagement.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "src\\UserManagement.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T20:10:55.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "D:\\projects\\vgoncalez\\UserManagementApp\\backend\\src\\UserManagement.Infrastructure\\Configuration\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\UserManagement.Infrastructure\\Configuration\\UserConfiguration.cs",
+              "ToolTip": "D:\\projects\\vgoncalez\\UserManagementApp\\backend\\src\\UserManagement.Infrastructure\\Configuration\\UserConfiguration.cs",
+              "RelativeToolTip": "src\\UserManagement.Infrastructure\\Configuration\\UserConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T20:10:53.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\projects\\vgoncalez\\UserManagementApp\\backend\\src\\UserManagement.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "src\\UserManagement.Domain\\Entities\\User.cs",
+              "ToolTip": "D:\\projects\\vgoncalez\\UserManagementApp\\backend\\src\\UserManagement.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "src\\UserManagement.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T20:10:50.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthenticateUserQueryValidator.cs",
+              "DocumentMoniker": "D:\\projects\\vgoncalez\\UserManagementApp\\backend\\src\\UserManagement.Application\\Features\\Auth\\Validators\\AuthenticateUserQueryValidator.cs",
+              "RelativeDocumentMoniker": "src\\UserManagement.Application\\Features\\Auth\\Validators\\AuthenticateUserQueryValidator.cs",
+              "ToolTip": "D:\\projects\\vgoncalez\\UserManagementApp\\backend\\src\\UserManagement.Application\\Features\\Auth\\Validators\\AuthenticateUserQueryValidator.cs",
+              "RelativeToolTip": "src\\UserManagement.Application\\Features\\Auth\\Validators\\AuthenticateUserQueryValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T20:10:45.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthenticateUserResponse.cs",
+              "DocumentMoniker": "D:\\projects\\vgoncalez\\UserManagementApp\\backend\\src\\UserManagement.Application\\Features\\Auth\\Responses\\AuthenticateUserResponse.cs",
+              "RelativeDocumentMoniker": "src\\UserManagement.Application\\Features\\Auth\\Responses\\AuthenticateUserResponse.cs",
+              "ToolTip": "D:\\projects\\vgoncalez\\UserManagementApp\\backend\\src\\UserManagement.Application\\Features\\Auth\\Responses\\AuthenticateUserResponse.cs",
+              "RelativeToolTip": "src\\UserManagement.Application\\Features\\Auth\\Responses\\AuthenticateUserResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T20:10:43.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthenticateUserQuery.cs",
+              "DocumentMoniker": "D:\\projects\\vgoncalez\\UserManagementApp\\backend\\src\\UserManagement.Application\\Features\\Auth\\Queries\\AuthenticateUserQuery.cs",
+              "RelativeDocumentMoniker": "src\\UserManagement.Application\\Features\\Auth\\Queries\\AuthenticateUserQuery.cs",
+              "ToolTip": "D:\\projects\\vgoncalez\\UserManagementApp\\backend\\src\\UserManagement.Application\\Features\\Auth\\Queries\\AuthenticateUserQuery.cs",
+              "RelativeToolTip": "src\\UserManagement.Application\\Features\\Auth\\Queries\\AuthenticateUserQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T20:10:36.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthenticateUserHandler.cs",
+              "DocumentMoniker": "D:\\projects\\vgoncalez\\UserManagementApp\\backend\\src\\UserManagement.Application\\Features\\Auth\\Handlers\\AuthenticateUserHandler.cs",
+              "RelativeDocumentMoniker": "src\\UserManagement.Application\\Features\\Auth\\Handlers\\AuthenticateUserHandler.cs",
+              "ToolTip": "D:\\projects\\vgoncalez\\UserManagementApp\\backend\\src\\UserManagement.Application\\Features\\Auth\\Handlers\\AuthenticateUserHandler.cs",
+              "RelativeToolTip": "src\\UserManagement.Application\\Features\\Auth\\Handlers\\AuthenticateUserHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T20:10:30.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "D:\\projects\\vgoncalez\\UserManagementApp\\backend\\src\\UserManagement.Application\\Behaviors\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "src\\UserManagement.Application\\Behaviors\\ValidationBehavior.cs",
+              "ToolTip": "D:\\projects\\vgoncalez\\UserManagementApp\\backend\\src\\UserManagement.Application\\Behaviors\\ValidationBehavior.cs",
+              "RelativeToolTip": "src\\UserManagement.Application\\Behaviors\\ValidationBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T20:10:27.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "ApplicationAssemblyReference.cs",
               "DocumentMoniker": "D:\\projects\\vgoncalez\\UserManagementApp\\backend\\src\\UserManagement.Application\\ApplicationAssemblyReference.cs",
               "RelativeDocumentMoniker": "src\\UserManagement.Application\\ApplicationAssemblyReference.cs",
@@ -47,8 +302,7 @@
               "RelativeToolTip": "src\\UserManagement.Application\\ApplicationAssemblyReference.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T20:09:25.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-21T20:09:25.721Z"
             }
           ]
         }
